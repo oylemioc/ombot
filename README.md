@@ -1,0 +1,2 @@
+# ombot
+Novelty Telegram Bot
